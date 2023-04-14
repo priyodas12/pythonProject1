@@ -13,3 +13,4 @@ print(he.replace("a", "x"))  # Priyobrxto Dxs
 print(he * 3)  # display 3 times he
 print(he.split("r"))  # ['P', 'iyob', 'ato Das']
 print(she.strip())  # Removes white spaces in front and back
+print(he.isprintable())
